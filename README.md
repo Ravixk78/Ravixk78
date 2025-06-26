@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ravindukushan&label=Profile%20views&color=0e75b6&style=flat" alt="ravindukushan" />
+  <img src="https://komarev.com/ghpvc/?username=Ravixk78&label=Profile%20views&color=0e75b6&style=flat" alt="Ravixk78" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 ### 🏆 GitHub Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ravindukushan&theme=onedark" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ravixk78&theme=onedark" alt="GitHub Trophy" />
 </p>
 
 ---
@@ -74,8 +74,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ravindukushan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ravindukushan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravixk78&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravixk78&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
